@@ -11,6 +11,12 @@ from nltk.stem import WordNetLemmatizer
 
 
 stop_words = (set(stopwords.words('english')))
+stop_words.add(".")
+stop_words.add(",")
+stop_words.add("\"")
+stop_words.add(";")
+stop_words.add("?")
+
 sentence_array = []
 preword_array = []
 
