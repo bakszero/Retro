@@ -40,10 +40,13 @@ class Graph:
             nv = self.addVertex(f)
         if t not in self.vertList:
             nv = self.addVertex(t)
-        self.vertList[f].addNeighbor(self.vertList[t], cost)
+        self.vertList[f].addNeighbor(t, cost)
     
     def getVertices(self):
         return self.vertList.keys()
+
+    def totalVertices(self):
+        return self.numVertices
     
     #def __iter__(self):
        # return iter(self.vertList.values())
