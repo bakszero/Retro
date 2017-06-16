@@ -80,7 +80,7 @@ word_graph = Graph()
 
 #set sliding window size
 #sliding_size = 2
-print ((flat_list))
+#print ((flat_list))
 #Iterate and form the word graph, increase weight when more than 1 word encountered
 for i in range(0,len(flat_list)-1):
     if flat_list[i] in word_graph.vertList:
