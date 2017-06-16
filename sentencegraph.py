@@ -91,4 +91,4 @@ for line1 in lemm_sent:
 
 for i in sentence_graph.vertList.values():
     for j, val in i.connectedto.items():
-        print("{0} --> {1}---->{2}".format(i.getID(), j.getID(), val))
+        print("{0} --> {1}---->{2}".format(i.getID(), j, val))
