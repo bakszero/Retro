@@ -55,7 +55,7 @@ filtered_sent=[]
 xsent = []
 for line in newsentence_array:
     word_tokens =  word_tokenize(line)
-    xsent = [w for w in word_tokens if not w in stop_words ]
+    xsent = [w.lower() for w in word_tokens if not w in stop_words ]
     filtered_sent.append(xsent)
 
 #print (filtered_sent)
