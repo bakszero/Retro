@@ -8,7 +8,7 @@ class Vertex:
         self.connectedto[nbr] = weight
     
     def getConnections(self):
-        return self.connectedto.keys()
+        return self.connectedto.items()
     
     def getID(self):
         return self.id
