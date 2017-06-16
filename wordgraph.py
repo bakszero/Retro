@@ -84,8 +84,9 @@ print ((flat_list))
 #Iterate and form the word graph, increase weight when more than 1 word encountered
 for i in range(0,len(flat_list)-1):
     if flat_list[i] in word_graph.vertList:
-        if flat_list[i+1] in word_graph.vertList[flat_list[i]].connectedto:
-            word_graph.vertList[flat_list[i]].connectedto[flat_list[i+1]] = int(word_graph.vertList[flat_list[i]].connectedto[flat_list[i+1]])+ 1
+        if flat_list[i+1] in word_graph.vertList[flat_list[i]].connectedto.keys():
+            #print (word_graph.vertList[flat_list[i]].connectedto)
+            word_graph.vertList[flat_list[i]].connectedto[flat_list[i+1]]+=1
         else:
             word_graph.addEdge(flat_list[i], flat_list[i+1], 1)
 
@@ -94,10 +95,10 @@ for i in range(0,len(flat_list)-1):
         word_graph.addEdge(flat_list[i], flat_list[i+1], 1)
 
 
-print (word_graph.vertList['stupid'].connectedto)
-print (word_graph.vertList)
+#print (word_graph.vertList['stupid'].connectedto)
+#print (word_graph.vertList)
 for i in word_graph.vertList.values():
     for j, val in i.connectedto.items():
-        print ("{0} --> {1} --> {2}".format(i.getID(), j.getID(), val))
+        print ("{0} --> {1} --> {2}".format(i.getID(), j, val))
 
 
