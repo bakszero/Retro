@@ -111,7 +111,13 @@ cc_dict = nx.closeness_centrality(xword_graph, u=None, distance =None, normalize
 sorted_cc_dict =  OrderedDict(sorted(cc_dict.items(), key=itemgetter(1), reverse=True))
 
 
-for x, y in sorted_cc_dict.items():
+#for x, y in sorted_cc_dict.items():
+  #  print ("{0} : {1}".format(x, y))
+
+
+#Compute betweenness centrality
+bc_dict= nx.betweenness_centrality(xword_graph, k=None, normalized=True, weight=None, endpoints=False, seed=None)
+sorted_bc_dict =  OrderedDict(sorted(bc_dict.items(), key=itemgetter(1), reverse=True))
+
+for x, y in sorted_bc_dict.items():
     print ("{0} : {1}".format(x, y))
-
-
