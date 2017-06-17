@@ -2,6 +2,10 @@ import nltk
 
 import networkx as nx
 from graph import *
+
+from operator import itemgetter
+from collections import OrderedDict
+
 import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
@@ -74,7 +78,7 @@ for line in filtered_sent:
 flat_list = [item for sublist in lemm_sent for item in sublist]
 #print (flat_list)
 
-xword_graph = nx.DiGraph()
+xword_graph = nx.Graph()
 
 #set sliding window size
 #sliding_size = 2
@@ -93,11 +97,21 @@ for i in range(0,len(flat_list)-1):
         xword_graph.add_edge(flat_list[i], flat_list[i+1], weight = 1)
 
 
-nx.draw_networkx(xword_graph,node_color='#A0CBE2',edge_color='#BB0000',width=2,edge_cmap=plt.cm.Blues,with_labels=True)
+#nx.draw_networkx(xword_graph,node_color='#A0CBE2',edge_color='#BB0000',width=2,edge_cmap=plt.cm.Blues,with_labels=True)
 #plt.xlim(-4.0, 4.0)
 
-plt.show()
+#plt.show()
+
+for u, v , a in xword_graph.edges(data=True):
+    #print( u, v,a )
+    pass
+
+#Compute closeness centrality
+cc_dict = nx.closeness_centrality(xword_graph, u=None, distance =None, normalized=True)
+sorted_cc_dict =  OrderedDict(sorted(cc_dict.items(), key=itemgetter(1), reverse=True))
 
 
+for x, y in sorted_cc_dict.items():
+    print ("{0} : {1}".format(x, y))
 
 
