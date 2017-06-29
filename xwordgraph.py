@@ -10,6 +10,10 @@ import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+from nltk.util import ngrams
+
+from collections import Counter
+
 
 
 
@@ -120,4 +124,14 @@ bc_dict= nx.betweenness_centrality(xword_graph, k=None, normalized=True, weight=
 sorted_bc_dict =  OrderedDict(sorted(bc_dict.items(), key=itemgetter(1), reverse=True))
 
 for x, y in sorted_bc_dict.items():
-    print ("{0} : {1}".format(x, y))
+    pass
+    #print ("{0} : {1}".format(x, y))
+
+
+#BIGRAM IN MACHINE LEARNING
+
+BIGRAM = ngrams(flat_list, 2)
+
+for (a, b) in BIGRAM:
+    print ("{0}  :   {1}".format(a,b))
+#print (Counter(BIGRAM))
