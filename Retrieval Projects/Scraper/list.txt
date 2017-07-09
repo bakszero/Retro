@@ -1,0 +1,43 @@
+Bayes Theorem
+Bayesian Statistics
+Big Data
+Binary Variable
+Binomial Distribution
+Business Analytics
+Business Intelligence
+Categorical Variable
+Classification
+Data Mining
+EDA
+Feature reduction
+Hierarchical Clustering
+Hypothesis
+Imputation
+K-Means
+kNN
+Kurtosis
+Lasso Regression
+Linear Regression
+Logistic Regression
+Machine learning
+Mean
+Median
+Mode
+Multivariate analysis
+Naive Bayes
+Natural Language Processing 
+One Hot Encoding
+Precision and Recall
+Quartile
+Range
+Regression
+Reinforcement Learning
+Response Variable
+Ridge Regression
+ROC-AUC
+Semi-Supervised Learning
+Type I error
+Univariate Analysis
+Unsupervised Learning
+Variance
+42
