@@ -173,3 +173,404 @@ WebHDFS Apache Hadoop
 Weather data
 XML Databases
 ZooKeeper
+ACID
+Aggregation
+Ad hoc reporting
+Ad targeting
+Algorithm
+Analytics
+Analytics platform
+Anomaly detection
+Anonymization
+API
+Application
+Artificial Intelligence
+Automatic identification and capture (AIDC)
+behavioral analytics
+big data
+biometrics
+brand monitoring
+brontobyte
+business intelligence (BI)
+call detail record (CDR) analysis
+Cassandra
+cell phone data
+classification analysis
+clickstream analytics
+Clojure
+cloud
+clustering analysis
+columnar database or column-oriented database
+comparative analysis
+competitive monitoring
+complex event processing (CEP)
+complex structured data
+Comprehensive Large Array-data Stewardship System (CLASS)
+computer-generated data
+concurrency
+confabulation
+content management system (CMS)
+correlation analysis
+cross-channel analytics
+crowdsourcing
+customer relationship management (CRM)
+dashboard
+data
+data access
+DATA Act
+data aggregation
+data analytics
+data analyst
+data architecture and design
+data center
+data cleansing
+data collection
+data custodian
+data democratization
+data-directed decision making
+data exhaust
+data feed
+data governance
+data integration
+data integrity
+data management
+Data Management Association (DAMA)
+data marketplace
+data mart
+data migration
+data mining
+data model, data modeling
+data point
+data profiling
+data quality
+data replication
+data repository
+data science
+data scientist
+data security
+data set
+data source
+data steward
+data structure
+data visualization
+data virtualization
+data warehouse
+database
+database administrator (DBA)
+database as a service (DaaS)
+database management system (DBMS)
+de-identification
+demographic data
+Deep Thunder
+distributed cache
+distributed file system
+distributed object
+distributed processing
+document management
+Drill
+elasticsearch
+electronic health records (EHR)
+enterprise resource planning (ERP)
+event analytics
+exabyte
+exploratory data analysis
+external data
+extract, transform, and load (ETL)
+failover
+Federal Information Security Management Act (FISMA)
+fog computing
+gamification
+graph database
+grid computing
+Hadoop
+Hadoop distributed file system (HDFS)
+HANA
+HBase
+high-performance computing (HPC)
+Hive
+Impala
+in-database analytics
+information management
+in-memory database
+in-memory data grid (IMDG)
+Internet of Things (IoT)
+Kafka
+latency
+legacy system
+linked data
+load balancing
+location analytics
+location data
+log file
+long data
+machine-generated data
+machine learning
+map/reduce
+mashup
+massively parallel processing (MPP)
+master data management (MDM)
+metadata
+MongoDB
+MPP database
+Multidimensional database
+multi-threading
+natural language processing
+NoSQL
+object-oriented database
+online analytical processing (OLAP)
+online transactional processing (OLTP)
+OpenDremel
+Open Data Center Alliance (ODCA)
+OpenPOWER Foundation
+open source software
+operational data store (ODS)
+parallel data analysis
+parallel method invocation (PMI)
+parallel processing
+parallel query
+pattern recognition
+performance management
+petabyte
+Pig
+platform-as-a-service (PaaS)
+predictive analytics
+predictive modeling
+Presto
+privacy
+quantified self
+query analysis
+R
+radio-frequency identification (RFID)
+real time
+recommendation engine
+records management
+reference data
+report
+risk analysis
+root-cause analysis
+Sawzall
+scalability
+schema
+search
+search data
+Semantic Web
+semi-structured data
+sentiment analysis
+server
+smart grid
+smart meter
+solid-state drive (SSD)
+software as a service (SaaS)
+storage
+Storm
+structured data
+Structured Query Language (SQL)
+terabyte
+text analytics
+transactional data
+transparency
+unstructured data
+variable pricing
+weather data
+Whole Earth Model
+ACID
+
+Aggregation
+Ad hoc reporting
+Ad targeting
+Algorithm
+Analytics
+Analytics platform
+Anomaly detection
+Anonymization
+API
+Application
+Artificial Intelligence
+Automatic identification and capture (AIDC)
+behavioral analytics
+big data
+biometrics
+brand monitoring
+brontobyte
+business intelligence (BI)
+call detail record (CDR) analysis
+Cassandra
+cell phone data
+classification analysis
+clickstream analytics
+Clojure
+cloud
+clustering analysis
+columnar database or column-oriented database
+comparative analysis
+competitive monitoring
+complex event processing (CEP)
+complex structured data
+Comprehensive Large Array-data Stewardship System (CLASS)
+computer-generated data
+concurrency
+confabulation
+content management system (CMS)
+correlation analysis
+cross-channel analytics
+crowdsourcing
+customer relationship management (CRM)
+dashboard
+data
+data access
+DATA Act
+data aggregation
+data analytics
+data analyst
+data architecture and design
+data center
+data cleansing
+data collection
+data custodian
+data democratization
+data-directed decision making
+data exhaust
+data feed
+data governance
+data integration
+data integrity
+data management
+Data Management Association (DAMA)
+data marketplace
+data mart
+data migration
+data mining
+data model, data modeling
+data point
+data profiling
+data quality
+data replication
+data repository
+data science
+data scientist
+data security
+data set
+data source
+data steward
+data structure
+data visualization
+data virtualization
+data warehouse
+database
+database administrator (DBA)
+database as a service (DaaS)
+database management system (DBMS)
+de-identification
+demographic data
+Deep Thunder
+distributed cache
+distributed file system
+distributed object
+distributed processing
+document management
+Drill
+elasticsearch
+electronic health records (EHR)
+enterprise resource planning (ERP)
+event analytics
+exabyte
+exploratory data analysis
+external data
+extract, transform, and load (ETL)
+failover
+Federal Information Security Management Act (FISMA)
+fog computing
+gamification
+graph database
+grid computing
+Hadoop
+Hadoop distributed file system (HDFS)
+HANA
+HBase
+high-performance computing (HPC)
+Hive
+Impala
+in-database analytics
+information management
+in-memory database
+in-memory data grid (IMDG)
+Internet of Things (IoT)
+Kafka
+latency
+legacy system
+linked data
+load balancing
+location analytics
+location data
+log file
+long data
+machine-generated data
+machine learning
+map/reduce
+mashup
+massively parallel processing (MPP)
+master data management (MDM)
+metadata
+MongoDB
+MPP database
+Multidimensional database
+multi-threading
+natural language processing
+NoSQL
+object-oriented database
+online analytical processing (OLAP)
+online transactional processing (OLTP)
+OpenDremel
+Open Data Center Alliance (ODCA)
+OpenPOWER Foundation
+open source software
+operational data store (ODS)
+parallel data analysis
+parallel method invocation (PMI)
+parallel processing
+parallel query
+pattern recognition
+performance management
+petabyte
+Pig
+platform-as-a-service (PaaS)
+predictive analytics
+predictive modeling
+Presto
+privacy
+quantified self
+query analysis
+R
+radio-frequency identification (RFID)
+real time
+recommendation engine
+records management
+reference data
+report
+risk analysis
+root-cause analysis
+Sawzall
+scalability
+schema
+search
+search data
+Semantic Web
+semi-structured data
+sentiment analysis
+server
+smart grid
+smart meter
+solid-state drive (SSD)
+software as a service (SaaS)
+storage
+Storm
+structured data
+Structured Query Language (SQL)
+terabyte
+text analytics
+transactional data
+transparency
+unstructured data
+variable pricing
+weather data
+Whole Earth Model

@@ -1,0 +1,60 @@
+Supervised Learning
+Unsupervised Learning
+Deep Learning
+Reinforcement Learning
+Neural Networks
+Classification
+Regression
+Clustering
+Model
+Algorithm
+Model vs Algorithm
+Attribute
+Feature
+Feature Vector
+Instance
+Observation
+Dimension
+Data Cleaning
+Classifier
+Accuracy
+Null Accuracy
+Specificity
+Precision
+Recall
+Precision vs Recall
+Type 1 Errors
+Type 2 Errors
+Classification Threshold
+Confusion Matrix
+Linear Regression
+Evaluating Performance of Linear Regression
+Universal Approximation Theorem
+Classifier
+Inducer
+Induction
+Deduction
+Interpolation
+Extrapolation
+Feature Selection
+Overfitting
+Underfitting
+Bias and Variance
+Bias
+Variance
+Bias-Variance Tradeoff
+Training Set
+Validation Set
+Test Set
+Model Validation
+Cross-Validation
+Loss
+Epoch
+Batch
+Iteration
+Learning Rate
+Regularization
+Normalization
+Fine-tuning
+Backpropagation
+Dense Layer

@@ -1,0 +1,146 @@
+activation
+adadelta
+adagrad
+adam
+affine-layer
+alexnet
+attention-models
+autoencoder
+backpropagation
+batch-normalization
+bidirectional-recurrent-neural-networks
+binarization
+boltzmann-machine
+channel
+class
+confusion-matrix
+contrastive-divergence
+convolutional-network-cnn
+cosine-similarity
+data-parallelism-and-model-parallelism
+data-scienpce
+deep-belief-network-dbn
+deep-learning
+distributed-representations
+downpour-stochastic-gradient-descent
+dropout
+dropconnect
+embedding
+epoch-vs-iteration
+extract-transform-load-etl
+f1-score
+feed-forward-network
+gaussian-distribution
+gloval-vectores-glove
+gradient-descent
+gradient-clipping
+epoch
+graphical-models
+gated-recurrent-unit-gru
+highway-networks
+hyperplane
+international-conference-on-learning-representations
+international-conference-for-machine-learning
+imagenet-large-scale-visual-recognition-challenge--ilsvrc
+iteration
+lenet
+long-short-term-memory-units-lstm
+log-likelihood
+maximum-likelihood-estimation
+model
+mnist
+model-score
+nesterovs-momentum
+multilayer-perceptron
+neural-machine-translation
+noise-contrastive-estimations-nce
+nonlinear-transform-function
+normalization
+object-oriented-programming-oop
+objective-function
+one-hot-encoding
+pooling
+probability-density
+probability-distribution
+reconstruction-entropy
+rectified-linear-units
+recurrent-neural-networks
+recursive-neural-networks
+reinforcement-learning
+representation-learning
+residual-networks-resnet
+restricted-boltzmann-machine-rbm
+rmsprop
+score
+serialization
+skipgram
+softmax
+stochastic-gradient-descent
+support-vector-machine
+tensors
+vanishing-gradient-problem
+transfer-learning
+vector
+vgg
+word2vec
+xavier-initialization
+Supervised Learning
+Unsupervised Learning
+Deep Learning
+Reinforcement Learning
+Neural Networks
+Classification
+Regression
+Clustering
+Model
+Algorithm
+Model vs Algorithm
+Attribute
+Feature
+Feature Vector
+Instance
+Observation
+Dimension
+Data Cleaning
+Classifier
+Accuracy
+Null Accuracy
+Specificity
+Precision
+Recall
+Precision vs Recall
+Type 1 Errors
+Type 2 Errors
+Classification Threshold
+Confusion Matrix
+Linear Regression
+Evaluating Performance of Linear Regression
+Universal Approximation Theorem
+Classifier
+Inducer
+Induction
+Deduction
+Interpolation
+Extrapolation
+Feature Selection
+Overfitting
+Underfitting
+Bias and Variance
+Bias
+Variance
+Bias-Variance Tradeoff
+Training Set
+Validation Set
+Test Set
+Model Validation
+Cross-Validation
+Loss
+Epoch
+Batch
+Iteration
+Learning Rate
+Regularization
+Normalization
+Fine-tuning
+Backpropagation
+Dense Layer
