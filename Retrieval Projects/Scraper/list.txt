@@ -1,3 +1,147 @@
+Gloss:
+
+Attribute
+Bayes Decision Rule
+Bayes Risk
+Classification Function
+Classification Rule
+Classifier
+Concept
+Concept Space
+Cost 
+Discrimination Rule
+Error Rate
+Feature
+Feature Space
+Feature Vector
+Hypothesis
+Hypothesis Space
+Learning Algorithm
+Loss Function
+Pruning Set
+Regression Function
+Risk
+Target Concept
+Target Function
+Test Set
+Training Set
+Statistical Learning
+Pattern recognition
+Features
+Classification
+Regression
+Nonparametric regression
+Density estimation
+Parameter Estimation
+Model selection
+Independence Diagram
+Active learning
+Reinforcement learning
+Discriminant Analysis
+Principal Component Analysis
+Principal curve
+Factor analysis
+Independent Component Analysis
+Clustering
+K-means
+Jarvis and Patrick clustering
+Feature selection
+Linear regression
+Basis function regression
+Gaussian process regression
+Radial Basis Function regression
+Generalized linear model
+Logistic regression
+Gaussian process classifier
+Feed-forward neural network regression
+Feed-forward neural network density model
+Additive regression
+Projection pursuit regression
+Robust regression
+Independent Feature Model
+Naive Bayes
+Linear classifier
+Generalized linear classifier
+Support Vector Machine
+Finite mixture model
+Mixture of subspaces
+Coupled mixture model
+Markov chain
+Autoregression
+Hidden Markov Model
+Autoregressive Hidden Markov Model
+Input/Output Hidden Markov Model
+Factorial Hidden Markov Model
+Hidden Markov Decision Tree
+Switching Hidden Markov Model
+Hidden Markov Model with Duration
+Hidden Markov Segment Model
+Linear Dynamical System
+General dynamical system
+Mixture of Experts
+Decision tree
+Markov random field
+Markov random field
+Simultaneous autoregression
+Hidden Markov random field
+Constrained mixture model
+Constrained Hidden Markov Models
+Coupled Hidden Markov Model
+Stochastic context-free grammar
+Stochastic program
+Maximum likelihood
+Maximum A Posteriori
+Unbiased estimation
+Predictive estimation
+Minimum Message Length
+Bootstrapping
+Bagging
+Monte Carlo integration
+Regularization
+Expectation-Maximization (EM)
+Variational bound optimization
+Variational bound integration
+Jensen bound integration
+Expectation Propagation
+Newton-Raphson
+Iteratively Reweighted Least Squares
+Back propagation
+Backfitting
+Kalman filtering
+Extended Kalman filtering
+Relaxation labeling
+Deterministic annealing
+Boosting
+Empirical Risk Minimization
+Cross-validation
+Bayesian model selection
+Minimum Message Length model selection
+Structural Risk Minimization
+Other model selection criteria
+Nearest-neighbor density estimation
+Nearest-neighbor classification
+Nearest-neighbor regression
+Kernel density estimation
+Locally weighted regression
+
+Probability Gloss:
+
+Algebra
+Borel Set
+Measurable Space
+Measure
+Measure Space
+Probability Measure
+Random Variable
+Categorical random variable
+Numerical random variable
+Sample Space
+Sure event
+
+
+
+Methods:
+
 Bayes Theorem
 Bayesian Statistics
 Big Data
@@ -41,3 +185,9 @@ Univariate Analysis
 Unsupervised Learning
 Variance
 42
+
+
+
+
+
+
