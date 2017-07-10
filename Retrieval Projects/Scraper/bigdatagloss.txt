@@ -1,0 +1,175 @@
+ACID test
+Aggregation
+Algorithm
+Anonymization
+Artificial Intelligence
+Automatic identification and capture (AIDC)
+Avro
+Behavioral analytics
+Big Data Scientist
+Business Intelligence (BI)
+Cascading
+Call Detail Record (CDR) analysis
+Cassandra
+Cell phone data
+Clickstream Analytics
+Classification analysis
+Cloud computing
+Clustering analysis
+Cold data storage
+Comparative analysis
+Chukwa
+Clojure
+Cloud
+Columnar database or column-oriented database
+Comparators
+Complex event processing (CEP)
+Confabulation
+Cross-channel analytics
+Data access
+Dashboard
+Data aggregation
+Data architecture and design
+Database
+Database administrator (DBA)
+Database as a service (DaaS)
+Database management system (DBMS)
+Data center
+Data cleansing
+Data collection
+Data custodian
+Data-directed decision making
+Data exhaust
+Data feed
+Data governance
+Data integration
+Data integrity
+Data mart
+Data migration
+Data mining
+Data model, data modeling
+Data point
+Data profiling
+Data quality
+Data replication
+Data repository
+Data science
+Data scientist
+Data security
+Data set
+Data source
+Data steward
+Data structure
+Data visualization
+Data warehouse
+De-identification
+Demographic data
+Deep Thunder
+Distributed cache
+Distributed object
+Distributed processing
+Distributed File System
+Document Store Databases
+Document management
+Drill
+Elasticsearch
+Event analytics
+Exabyte
+External data
+Extract, transform, and load (ETL)
+Exploratory analysis
+Failover
+Flume
+Grid computing
+Graph Databases
+Hadoop
+Hama
+HANA
+HBase
+HCatalog 
+HDFS (Hadoop Distributed File System)
+Hive
+Hue
+Impala
+In-database analytics
+In-memory database
+In-memory data grid (IMDG)
+Internet of Things
+Kafka
+Key Value Stores
+KeyValue Databases
+Latency
+Linked data
+Load balancing
+Location analytics
+Location data
+Log file
+Machine-generated data
+Machine2Machine data
+Machine learning
+MapReduce
+Mashup
+Mahout 
+Metadata
+MongoDB
+MPP database
+Multi-Dimensional Databases
+MultiValue Databases
+Network analysis
+NewSQL
+NoSQL
+Object Databases
+Object-based Image Analysis
+Online analytical processing (OLAP)
+Online transactional processing (OLTP)
+OpenDremel
+Open Data Center Alliance (ODCA)
+Operational data store (ODS)
+Oozie 
+Parallel data analysis
+Parallel method invocation (PMI)
+Parallel processing
+Parallel query
+Pattern recognition
+Pentaho 
+Petabyte
+Pig
+Predictive analytics
+Predictive modeling
+Public data
+Query
+Query analysis
+R
+Re-identification
+Real-time data
+Recommendation engine
+Reference data
+Risk analysis
+Root-cause analysis
+Routing analysis
+Scalability
+Schema
+Search data
+Semi-structured data
+Sentiment analysis
+Server
+Spatial analysis
+SQL
+Sqoop
+Storm
+Software as a service (SaaS)
+Storage
+Storm
+Structured data
+Structured Query Language (SQL)
+Text analytics
+Transactional data
+Thrift
+Unstructured data
+Value
+Volume
+Visualization
+WebHDFS Apache Hadoop
+Weather data
+XML Databases
+ZooKeeper
